@@ -1,4 +1,4 @@
-package com.tolgakumbul.leetcode.solutions.question226;
+package com.tolgakumbul.leetcode.question226;
 
 public class TreeNode {
     public int val;

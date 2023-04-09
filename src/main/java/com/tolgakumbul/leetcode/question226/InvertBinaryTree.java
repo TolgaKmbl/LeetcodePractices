@@ -1,8 +1,9 @@
-package com.tolgakumbul.leetcode.solutions.question226;
+package com.tolgakumbul.leetcode.question226;
 
 import org.springframework.stereotype.Component;
 
 /**
+ * Given the root of a binary tree, invert the tree, and return its root.
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
@@ -20,6 +21,7 @@ import org.springframework.stereotype.Component;
  * Case 2 = [2,1,3]
  * Case 3 = []
  * Case 4 = [2,3,null,1]
+ * https://leetcode.com/problems/invert-binary-tree/
  */
 @Component(value = "Question-226")
 public class InvertBinaryTree {
