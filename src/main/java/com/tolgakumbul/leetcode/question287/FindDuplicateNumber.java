@@ -1,5 +1,7 @@
 package com.tolgakumbul.leetcode.question287;
 
+import org.springframework.stereotype.Component;
+
 /**
  * Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
  * <p>
@@ -8,6 +10,7 @@ package com.tolgakumbul.leetcode.question287;
  * You must solve the problem without modifying the array nums and uses only constant extra space.
  * https://leetcode.com/problems/find-the-duplicate-number/
  */
+@Component(value = "Question-287")
 public class FindDuplicateNumber {
 
     /* Floyd's cycle detection algorithm (Tortoise and Hare) */
