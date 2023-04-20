@@ -1,12 +1,9 @@
 package com.tolgakumbul.leetcode.test1;
 
 import com.tolgakumbul.leetcode.question1.TwoSum;
-import com.tolgakumbul.leetcode.question226.InvertBinaryTree;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.util.Arrays;
 
 public class TwoSumTest {
 
