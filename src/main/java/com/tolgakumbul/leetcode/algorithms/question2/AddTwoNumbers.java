@@ -10,6 +10,9 @@ import org.springframework.stereotype.Component;
  * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
  * <p>
  * https://leetcode.com/problems/add-two-numbers/
+ *
+ * Runtime: 1 ms, faster than 100.00% of Java online submissions for Add Two Numbers.
+ * Memory Usage: 44 MB, less than 85.64% of Java online submissions for Add Two Numbers.
  */
 @Component(value = "Question-2")
 public class AddTwoNumbers {
