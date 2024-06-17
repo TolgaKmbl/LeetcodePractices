@@ -2,11 +2,6 @@ package com.tolgakumbul.leetcode.algorithms.question3;
 
 import org.springframework.stereotype.Component;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
-
 /**
  * Given a string s, find the length of the longest substring without repeating characters.
  * <p>
