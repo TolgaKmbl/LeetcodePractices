@@ -1,6 +1,5 @@
 package com.tolgakumbul.leetcode.algorithms.test20;
 
-import com.tolgakumbul.leetcode.algorithms.question14.LongestCommonPrefix;
 import com.tolgakumbul.leetcode.algorithms.question20.ValidParentheses;
 import org.junit.Assert;
 import org.junit.Before;
