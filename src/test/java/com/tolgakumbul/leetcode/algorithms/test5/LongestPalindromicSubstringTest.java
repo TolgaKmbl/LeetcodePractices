@@ -17,7 +17,9 @@ public class LongestPalindromicSubstringTest {
     @Test
     public void testSearchInsert(){
         Assert.assertEquals("bab", longestPalindromicSubstring.longestPalindrome("babad"));
+        Assert.assertEquals("bab", longestPalindromicSubstring.longestPalindromeWithDynamicProgramming("babad"));
         Assert.assertEquals("bb", longestPalindromicSubstring.longestPalindrome("cbbd"));
+        Assert.assertEquals("bb", longestPalindromicSubstring.longestPalindromeWithDynamicProgramming("cbbd"));
     }
 
 }
