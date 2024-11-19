@@ -42,34 +42,34 @@ public class AddBinary {
              */
             if(a.charAt(i) == '1' && b.charAt(i) == '1') {
                 if(carry){
-                    sb.insert(0,"1");
+                    sb.append("1");
                 } else {
-                    sb.insert(0,"0");
+                    sb.append("0");
                 }
                 carry = true;
             } else {
                 if(a.charAt(i) == '0' && b.charAt(i) == '0'){
                     if(carry){
-                        sb.insert(0,"1");
+                        sb.append("1");
                         carry = false;
                     } else {
-                        sb.insert(0,"0");
+                        sb.append("0");
                     }
                 } else {
                     if(carry){
-                        sb.insert(0,"0");
+                        sb.append("0");
                     } else {
-                        sb.insert(0,"1");
+                        sb.append("1");
                     }
                 }
             }
         }
 
         if(carry){
-            sb.insert(0, "1");
+            sb.append( "1");
         }
 
-        return sb.toString();
+        return sb.reverse().toString();
     }
 
     private String padWithZeros(String input, int targetLength) {
