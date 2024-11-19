@@ -33,6 +33,19 @@ public class AddBinary {
 
         Boolean carry = false;
         StringBuilder sb = new StringBuilder();
+        /**
+         * Alternative way with Integer parse
+         *
+         * for (int i = maxLength - 1; i >= 0; i--) {
+         *         int bitA = a.charAt(i) - '0'; // Convert '0'/'1' to int 0/1
+         *         int bitB = b.charAt(i) - '0';
+         *         int sum = bitA + bitB + (carry ? 1 : 0);
+         *
+         *         // Append the result bit and update carry
+         *         result.append(sum % 2); // 0 or 1
+         *         carry = sum > 1;        // Carry is true if sum is 2 or 3
+         *     }
+         */
         for(int i = a.length()-1; i >= 0; i--) {
             /**
              * 1+1=0 with carry 1
