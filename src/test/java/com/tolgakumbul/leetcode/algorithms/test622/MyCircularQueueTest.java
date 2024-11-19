@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test622;
 
-import com.tolgakumbul.leetcode.algorithms.question622.MyCircularQueue;
+import com.tolgakumbul.leetcode.algorithms.medium.question622.MyCircularQueue;
 import org.junit.Assert;
 import org.junit.Test;
 

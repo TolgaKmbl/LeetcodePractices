@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test1920;
 
-import com.tolgakumbul.leetcode.algorithms.question1920.BuildArrayFromPermutation;
+import com.tolgakumbul.leetcode.algorithms.easy.question1920.BuildArrayFromPermutation;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test9;
 
-import com.tolgakumbul.leetcode.algorithms.question9.PalindromeNumber;
+import com.tolgakumbul.leetcode.algorithms.easy.question9.PalindromeNumber;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,7 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test69;
 
-import com.tolgakumbul.leetcode.algorithms.question66.PlusOne;
-import com.tolgakumbul.leetcode.algorithms.question69.SquareRootOfX;
+import com.tolgakumbul.leetcode.algorithms.easy.question69.SquareRootOfX;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

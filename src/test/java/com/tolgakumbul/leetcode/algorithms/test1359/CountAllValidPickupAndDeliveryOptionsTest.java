@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test1359;
 
-import com.tolgakumbul.leetcode.algorithms.question1359.CountAllValidPickupAndDeliveryOptions;
+import com.tolgakumbul.leetcode.algorithms.hard.question1359.question1359.CountAllValidPickupAndDeliveryOptions;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

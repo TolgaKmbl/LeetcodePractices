@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test1396;
 
-import com.tolgakumbul.leetcode.algorithms.question1396.UndergroundSystem;
+import com.tolgakumbul.leetcode.algorithms.medium.question1396.UndergroundSystem;
 import org.junit.Assert;
 import org.junit.Test;
 

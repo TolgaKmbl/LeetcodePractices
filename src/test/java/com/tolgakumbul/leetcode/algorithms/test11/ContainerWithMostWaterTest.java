@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test11;
 
-import com.tolgakumbul.leetcode.algorithms.question11.ContainerWithMostWater;
+import com.tolgakumbul.leetcode.algorithms.medium.question11.ContainerWithMostWater;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

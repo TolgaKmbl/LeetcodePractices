@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test66;
 
-import com.tolgakumbul.leetcode.algorithms.question66.PlusOne;
+import com.tolgakumbul.leetcode.algorithms.easy.question66.PlusOne;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

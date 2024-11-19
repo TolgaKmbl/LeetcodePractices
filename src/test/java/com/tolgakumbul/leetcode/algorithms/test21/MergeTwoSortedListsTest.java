@@ -1,7 +1,7 @@
 package com.tolgakumbul.leetcode.algorithms.test21;
 
-import com.tolgakumbul.leetcode.algorithms.question2.ListNode;
-import com.tolgakumbul.leetcode.algorithms.question21.MergeTwoSortedLists;
+import com.tolgakumbul.leetcode.algorithms.medium.question2.ListNode;
+import com.tolgakumbul.leetcode.algorithms.easy.question21.MergeTwoSortedLists;
 import org.junit.Before;
 import org.junit.Test;
 

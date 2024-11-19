@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test70;
 
-import com.tolgakumbul.leetcode.algorithms.question70.ClimbingStairs;
+import com.tolgakumbul.leetcode.algorithms.easy.question70.ClimbingStairs;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

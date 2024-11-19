@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test28;
 
-import com.tolgakumbul.leetcode.algorithms.question28.FindIndexOfFirstOccurrenceInString;
+import com.tolgakumbul.leetcode.algorithms.easy.question28.FindIndexOfFirstOccurrenceInString;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

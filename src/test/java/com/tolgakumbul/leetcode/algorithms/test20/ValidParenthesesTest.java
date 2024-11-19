@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test20;
 
-import com.tolgakumbul.leetcode.algorithms.question20.ValidParentheses;
+import com.tolgakumbul.leetcode.algorithms.easy.question20.ValidParentheses;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

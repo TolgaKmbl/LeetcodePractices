@@ -1,7 +1,7 @@
 package com.tolgakumbul.leetcode.algorithms.test2;
 
-import com.tolgakumbul.leetcode.algorithms.question2.AddTwoNumbers;
-import com.tolgakumbul.leetcode.algorithms.question2.ListNode;
+import com.tolgakumbul.leetcode.algorithms.medium.question2.AddTwoNumbers;
+import com.tolgakumbul.leetcode.algorithms.medium.question2.ListNode;
 import org.junit.Before;
 import org.junit.Test;
 

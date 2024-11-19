@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test12;
 
-import com.tolgakumbul.leetcode.algorithms.question12.IntegerToRoman;
+import com.tolgakumbul.leetcode.algorithms.medium.question12.IntegerToRoman;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

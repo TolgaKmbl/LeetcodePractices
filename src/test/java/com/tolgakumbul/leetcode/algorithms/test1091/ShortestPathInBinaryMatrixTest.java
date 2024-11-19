@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test1091;
 
-import com.tolgakumbul.leetcode.algorithms.question1091.ShortestPathInBinaryMatrix;
+import com.tolgakumbul.leetcode.algorithms.medium.question1091.ShortestPathInBinaryMatrix;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

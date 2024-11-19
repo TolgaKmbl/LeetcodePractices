@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test35;
 
-import com.tolgakumbul.leetcode.algorithms.question35.SearchInsertPosition;
+import com.tolgakumbul.leetcode.algorithms.easy.question35.SearchInsertPosition;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

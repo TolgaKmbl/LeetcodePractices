@@ -1,7 +1,7 @@
 package com.tolgakumbul.leetcode.algorithms.test226;
 
-import com.tolgakumbul.leetcode.algorithms.question226.InvertBinaryTree;
-import com.tolgakumbul.leetcode.algorithms.question226.TreeNode;
+import com.tolgakumbul.leetcode.algorithms.easy.question226.InvertBinaryTree;
+import com.tolgakumbul.leetcode.algorithms.easy.question226.TreeNode;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

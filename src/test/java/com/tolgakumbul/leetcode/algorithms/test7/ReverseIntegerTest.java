@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test7;
 
-import com.tolgakumbul.leetcode.algorithms.question7.ReverseInteger;
+import com.tolgakumbul.leetcode.algorithms.medium.question7.ReverseInteger;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test14;
 
-import com.tolgakumbul.leetcode.algorithms.question14.LongestCommonPrefix;
+import com.tolgakumbul.leetcode.algorithms.easy.question14.LongestCommonPrefix;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

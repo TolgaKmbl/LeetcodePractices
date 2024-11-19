@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test4;
 
-import com.tolgakumbul.leetcode.algorithms.question4.MedianOfTwoSortedArrays;
+import com.tolgakumbul.leetcode.algorithms.hard.question4.MedianOfTwoSortedArrays;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

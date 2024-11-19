@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test287;
 
-import com.tolgakumbul.leetcode.algorithms.question287.FindDuplicateNumber;
+import com.tolgakumbul.leetcode.algorithms.medium.question287.FindDuplicateNumber;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

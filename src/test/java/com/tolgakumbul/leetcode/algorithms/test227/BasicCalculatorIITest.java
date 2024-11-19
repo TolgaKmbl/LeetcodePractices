@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test227;
 
-import com.tolgakumbul.leetcode.algorithms.question227.BasicCalculatorII;
+import com.tolgakumbul.leetcode.algorithms.medium.question227.BasicCalculatorII;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test394;
 
-import com.tolgakumbul.leetcode.algorithms.question394.DecodeString;
+import com.tolgakumbul.leetcode.algorithms.medium.question394.DecodeString;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

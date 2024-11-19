@@ -1,7 +1,7 @@
 package com.tolgakumbul.leetcode.algorithms.test2181;
 
-import com.tolgakumbul.leetcode.algorithms.question2.ListNode;
-import com.tolgakumbul.leetcode.algorithms.question2181.MergeNodesInBetweenZeros;
+import com.tolgakumbul.leetcode.algorithms.medium.question2.ListNode;
+import com.tolgakumbul.leetcode.algorithms.medium.question2181.MergeNodesInBetweenZeros;
 import org.junit.Before;
 import org.junit.Test;
 

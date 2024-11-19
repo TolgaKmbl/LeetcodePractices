@@ -1,7 +1,7 @@
 package com.tolgakumbul.leetcode.algorithms.test662;
 
-import com.tolgakumbul.leetcode.algorithms.question662.TreeNode;
-import com.tolgakumbul.leetcode.algorithms.question662.MaximumWidthofBinaryTree;
+import com.tolgakumbul.leetcode.algorithms.medium.question662.TreeNode;
+import com.tolgakumbul.leetcode.algorithms.medium.question662.MaximumWidthofBinaryTree;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

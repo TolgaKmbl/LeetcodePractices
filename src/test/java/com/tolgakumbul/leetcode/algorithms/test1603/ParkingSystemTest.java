@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test1603;
 
-import com.tolgakumbul.leetcode.algorithms.question1603.ParkingSystem;
+import com.tolgakumbul.leetcode.algorithms.easy.question1603.ParkingSystem;
 import org.junit.Assert;
 import org.junit.Test;
 

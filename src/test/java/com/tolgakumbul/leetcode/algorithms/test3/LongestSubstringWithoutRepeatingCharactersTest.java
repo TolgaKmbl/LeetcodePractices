@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test3;
 
-import com.tolgakumbul.leetcode.algorithms.question3.LongestSubstringWithoutRepeatingCharacters;
+import com.tolgakumbul.leetcode.algorithms.medium.question3.LongestSubstringWithoutRepeatingCharacters;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

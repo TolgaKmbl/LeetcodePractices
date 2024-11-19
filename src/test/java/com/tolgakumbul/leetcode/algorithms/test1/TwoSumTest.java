@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test1;
 
-import com.tolgakumbul.leetcode.algorithms.question1.TwoSum;
+import com.tolgakumbul.leetcode.algorithms.easy.question1.TwoSum;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

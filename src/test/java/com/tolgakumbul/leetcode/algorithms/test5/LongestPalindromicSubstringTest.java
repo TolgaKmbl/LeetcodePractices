@@ -1,6 +1,6 @@
 package com.tolgakumbul.leetcode.algorithms.test5;
 
-import com.tolgakumbul.leetcode.algorithms.question5.LongestPalindromicSubstring;
+import com.tolgakumbul.leetcode.algorithms.medium.question5.LongestPalindromicSubstring;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
