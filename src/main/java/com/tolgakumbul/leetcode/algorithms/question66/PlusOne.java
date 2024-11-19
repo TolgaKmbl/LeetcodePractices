@@ -39,11 +39,11 @@ import org.springframework.stereotype.Component;
 public class PlusOne {
 
     public int[] plusOne(int[] digits) {
-        int lastVal = digits[digits.length - 1];
+        /*int lastVal = digits[digits.length - 1];
         if(lastVal != 9){
             digits[digits.length - 1] = lastVal +1;
             return digits;
-        }
+        }*/
         for (int i = digits.length - 1; i >= 0; i--) {
             if (digits[i] < 9) {
                 digits[i]++;
