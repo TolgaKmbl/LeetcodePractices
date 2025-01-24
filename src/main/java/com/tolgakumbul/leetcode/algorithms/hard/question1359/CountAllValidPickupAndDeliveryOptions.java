@@ -1,4 +1,4 @@
-package com.tolgakumbul.leetcode.algorithms.hard.question1359.question1359;
+package com.tolgakumbul.leetcode.algorithms.hard.question1359;
 
 import org.springframework.stereotype.Component;
 
